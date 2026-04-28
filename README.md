@@ -22,6 +22,6 @@ Pandas, Scikit-learn
 
 ### 📫 Contact Me
 📧 Email: **bagoriarajan@gmail.com** | **rajandevstudio@gmail.com**  
-🔗 LinkedIn: **[https://github.com/rajandevstudio](https://www.linkedin.com/in/rajan-b-dev/)**
+🔗 LinkedIn: **[https://www.linkedin.com/in/rajan-b-dev/](https://www.linkedin.com/in/rajan-b-dev/)**
 
 Open to freelance projects & collaborations as well as full time contribution 🚀
